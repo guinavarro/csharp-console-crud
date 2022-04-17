@@ -1,0 +1,8 @@
+D:\projetos-vscode\c#\gestor_de_estoque\bin\Debug\gestor_de_estoque.exe.config
+D:\projetos-vscode\c#\gestor_de_estoque\bin\Debug\gestor_de_estoque.exe
+D:\projetos-vscode\c#\gestor_de_estoque\bin\Debug\gestor_de_estoque.pdb
+D:\projetos-vscode\c#\gestor_de_estoque\obj\Debug\gestor_de_estoque.csproj.AssemblyReference.cache
+D:\projetos-vscode\c#\gestor_de_estoque\obj\Debug\gestor_de_estoque.csproj.SuggestedBindingRedirects.cache
+D:\projetos-vscode\c#\gestor_de_estoque\obj\Debug\gestor_de_estoque.csproj.CoreCompileInputs.cache
+D:\projetos-vscode\c#\gestor_de_estoque\obj\Debug\gestor_de_estoque.exe
+D:\projetos-vscode\c#\gestor_de_estoque\obj\Debug\gestor_de_estoque.pdb
